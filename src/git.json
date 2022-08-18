@@ -1,0 +1,11 @@
+{
+  "user": "ShaMan123",
+  "tag": "v460-155-gd05a4e78",
+  "changes": [
+    {
+      "type": "M",
+      "path": "dist/fabric.js"
+    }
+  ],
+  "branch": "layer-proposal"
+}
